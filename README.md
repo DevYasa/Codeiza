@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mhdyasa
 - 👀 I’m interested in Frontend Designing
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning REact js, Phyton
+- 💞️ I’m looking to collaborate on Software Company
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He
+- ⚡ Fun fact: Clever
 
 <!---
 mhdyasa/mhdyasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
