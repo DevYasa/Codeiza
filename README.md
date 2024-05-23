@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DevYasa
+- 👋 Hi, I’m @Deviza.
 - 👀 I’m interested in Frontend Designing
-- 🌱 I’m currently learning REact js, Phyton
+- 🌱 I’m currently learning React js, Phyton, Next js, Node js
 - 💞️ I’m looking to collaborate on Software Company
 - 📫 How to reach me ...
 - 😄 Pronouns: He
