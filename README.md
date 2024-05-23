@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deviza.
+- 👋 Hi, I’m @Codeiza.
 - 👀 I’m interested in Frontend Designing
 - 🌱 I’m currently learning React js, Phyton, Next js, Node js
 - 💞️ I’m looking to collaborate on Software Company
